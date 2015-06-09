@@ -1,0 +1,46 @@
+/*
+ * Project 2 - {Landon Paik}
+ */
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    margin: 0;
+}
+
+.navbar-inverse {
+    background: -webkit-linear-gradient(left, green , blue);
+    padding: 10px;
+    border: none;
+    margin-bottom: 0px;
+}
+
+.navbar-brand {
+    height: 30px;
+    padding: 7px 15px;
+    color: #FFF;
+}
+
+#hexCode {
+    width: auto;
+}
+
+#brushSize {
+    width: auto;
+}
+
+#coordinates {
+    padding-left: 30px;
+    color: #FFF;
+}
